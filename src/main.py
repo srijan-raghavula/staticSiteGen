@@ -2,7 +2,7 @@ from textnode import TextNode
 
 
 def main():
-    node = TextNode("text", "bold", "some_url")
+    node = TextNode("text", "text_type", "url")
 
     print(node)
 
